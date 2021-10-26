@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashwat Singh Raghav</h1>
 <h3 align="center">I'm UI/UX Designer & Software Engineer energetic about making applications and interfaces that are client-driven and convey an extraordinary client experience. My center is to make their experience of an item or administration all that it tends to be. That rouses me to continually work on my UX/UI plan and UX research abilities…</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatsinghraghav&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatsinghraghav" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwatsinghraghav" alt="shashwatsinghraghav" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
